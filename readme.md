@@ -1,1 +1,1 @@
-My private collection of fortunes
+My personal collection of fortunes

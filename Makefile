@@ -1,4 +1,4 @@
-all: fortunes-private.dat
+all: fortunes-personal.dat
 
 %.dat: %
 	strfile $<
